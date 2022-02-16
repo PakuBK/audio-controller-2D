@@ -1,0 +1,26 @@
+{
+  "name": "com.paku.audiocontroller2d",
+  "version": "1.0.0",
+  "displayName": "Audio Controller 2D",
+  "description": "A Audio Controller that lets you manage different tracks and types of audio.",
+  "unity": "2020.1",
+  "documentationUrl": "https://github.com/PakuBK/audio-controller-2D",
+  "licensesUrl": "https://opensource.org/licenses/MIT",
+  "keywords": [
+    "audio",
+    "tracks",
+    "audio manager",
+    "audio controller",
+    "sound manager",
+    "sounds",
+    "sound track",
+    "sfx manager",
+    "sfx controller"
+  ],
+  "author": {
+    "name": "Paku",
+    "email": "pakudevelops@gmail.com",
+    "url": "https://github.com/PakuBK"
+  },
+  "type": "tool"
+}
