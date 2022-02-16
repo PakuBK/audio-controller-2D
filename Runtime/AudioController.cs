@@ -105,12 +105,11 @@ namespace Audio
 
         public void SaveVolumePreferences()
         {
-            Data.DataController.SaveVolumeData(m_VolumeTable);
+            // Save function here
         }
         public void LoadVolumePreferences()
         {
-            m_VolumeTable = Data.DataController.LoadVolumeData();
-            UpdateAllTrackVolumes();
+            // Load function here
         }
 
         #endregion
